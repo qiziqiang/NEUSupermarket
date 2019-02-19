@@ -2,7 +2,7 @@
 
 ## NEUSupermarket 说明
 
-这是一个基于Qt5.0的超市货物管理系统，东北大学计算机科学与技术专业大二上学期数据结构大作业。
+这是一个基于Qt5.0的超市货物管理系统，东北大学计算机科学与技术专业大二上学期数据结构大作业之一。之二见https://github.com/qiziqiang/Grades
 
 ![pic-1](demo/screenshot1.png)
 
